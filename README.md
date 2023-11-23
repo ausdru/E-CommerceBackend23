@@ -1,4 +1,4 @@
-# eCommerceBackend23
+# Challenge 13: E-Commerce Backend 2023
 ### Description:
 This week, my challenge was to build the backend for an e-commerce site. I was to take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
 
@@ -11,7 +11,7 @@ This week, my challenge was to build the backend for an e-commerce site. I was t
 6. [Contact](#contact)
 
 # License:
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 Copyright (c) 2023 Austin Drury
 
@@ -22,15 +22,14 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Usage:
-### Walkthrough / Demonstration: <br>
-https://drive.google.com/file/d/1xO7tFCHdZ77NQqA9tnAQ5Nnjw4-yje9_/view
+### Walkthrough / Demonstration:
+ <b>https://drive.google.com/file/d/1xO7tFCHdZ77NQqA9tnAQ5Nnjw4-yje9_/view</b>
+<br>
 (**Note: Please set to high quality for best video viewing experience.)
 
 ### Screenshots: <br>
 ![Screenshot1](./assets/imgs/ss1.PNG) <br><br>
 ![Screenshot2](./assets/imgs/ss2.PNG)
-
-
 
 # Installation:
     1. Clone repo to local machine and open the folder in code-editor of choice.
@@ -48,6 +47,6 @@ https://drive.google.com/file/d/1xO7tFCHdZ77NQqA9tnAQ5Nnjw4-yje9_/view
     - ChatGPT
 
 # Contact:
-If you have any questions, feel free to contact me below!
-    - Email: austindrury@live.com
-    - GitHub Profile: https://github.com/ausdru
+If you have any questions, feel free to contact me below! <br>
+    - <b>Email:</b> austindrury@live.com <br>
+    - <b>GitHub:</b> https://github.com/ausdru
